@@ -9,7 +9,7 @@
         <label for="name">Nombre:</label>
         <input type="text" name="name" placeholder="Ingrese su nombre">
         <label for="age">Edad:</label>
-        <input type="text" name="age" placeholder="Ingrese su edad">
+        <input type="number" name="age" min="1" max="120" placeholder="Ingrese su edad">
         <input type="submit" value="Aceptar">
     </form>
 </body>
