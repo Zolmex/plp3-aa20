@@ -1,0 +1,2 @@
+-- Pedido --:Nombre=Pedro;Direccion=Palol;CantidadJyQ=2;CantidadNapo=4;CantidadMuza=0;
+-- Pedido --:Nombre=Pedro;Direccion=Palol;CantidadJyQ=5;CantidadNapo=0;CantidadMuza=0;
